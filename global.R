@@ -1,0 +1,1 @@
+LogJobSchedule <- runApp("\\fcespfsrp001\Diretorios\Divisao_Tecnologia_Informacao\Desenvolvimento\BI\BI\Diversos\R\LogJobSchedule\app.R")
